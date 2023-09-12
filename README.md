@@ -7,8 +7,8 @@
 
 
 # 🔎皮皮VPN最新APP下载地址
-Win客户端： [https://down.carliones.com/pipi_setup_v1.0.4.exe](https://down.carliones.com/pipi_setup_v1.0.4.exe)
+Win客户端： [https://down.carliones.com/pipi_setup_v1.0.5.exe](https://down.carliones.com/pipi_setup_v1.0.5.exe)
 
-Android客户端： [https://down.carliones.com/pipi_v1.0.4_release.apk](https://down.carliones.com/pipi_v1.0.4_release.apk)
+Android客户端： [https://down.carliones.com/pipi_v1.0.6_release.apk](https://down.carliones.com/pipi_v1.0.6_release.apk)
 
 # ⚠请务必、务必、务必CTRL+D收藏本页，随时查看最新地址！
